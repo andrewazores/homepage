@@ -1,5 +1,10 @@
 Andrew Azores' Homepage
 =======================
 
-== Welcome
-Hi! I haven't really done anything with this yet...
+include::welcome.adoc[]
+
+include::work.adoc[]
+
+include::robotics.adoc[]
+
+include::school.adoc[]
