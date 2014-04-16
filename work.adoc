@@ -1,0 +1,24 @@
+== Work
+
+I am currently on a 16 month internship with Red Hat in Toronto, working as a
+member of the OpenJDK team. Most of my time is spent contributing to
+link:http://icedtea.classpath.org/wiki/IcedTea-Web[IcedTea-Web], but I do
+occasionally work on other things, such as
+link:http://github.com/devoxx4kids/materials[Devoxx4kids]. Devoxx is a large
+developers' conference in Europe, and my contribution to this project revolves
+around helping to develop a curriculum which can be used by Devoxx organizers
+to introduce school children to programming, using the ubiquituous Java
+platform to do so.
+
+More information about my specific contributions:
+
+* link:http://github.com/andrewazores/materials[devoxx4kids]
+* link:http://icedtea.classpath.org/hg/icedtea-web[IcedTea-Web]
+
+For a more clear view of only my contributions to IcedTea-Web:
+
+----
+hg clone http://icedtea.classpath.org/hg/icedtea-web
+cd icedtea-web
+hg log --verbose --user aazores # for extreme detail, add the --patch flag
+----
