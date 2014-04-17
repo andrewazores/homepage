@@ -1,0 +1,6 @@
+== School
+
+I entered the Honours Computer Science Co-Op program at
+link:http://mcmaster.ca[McMaster University] in Fall 2010. My original
+graduation date would have been April 2014; however, due to my long-term
+internship at Red Hat, this has been delayed by one year.
