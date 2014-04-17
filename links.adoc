@@ -1,0 +1,12 @@
+== Links
+
+|===
+|Link                                                   |Description
+|http://andrewazores.dyndns.org                         |This page
+|http://github.com/andrewazores/homepage.git            |This page on GitHub
+|http://github.com/andrewazores                         |GitHub profile
+|http://bitbucket.org/andrewazores                      |BitBucket profile
+|http://team3161.ca                                     |Robotics team
+|http://www.linkedin.com/pub/andrew-azores/3b/622/2b    |LinkedIn profile
+|http://flickr.com/photos/andrewazores                  |Flickr
+|===

@@ -8,3 +8,5 @@ include::work.adoc[]
 include::robotics.adoc[]
 
 include::school.adoc[]
+
+include::links.adoc[]
