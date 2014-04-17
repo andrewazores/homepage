@@ -1,5 +1,7 @@
 == Work
 
+=== Red Hat
+
 I am currently on a 16 month internship with Red Hat in Toronto, working as a
 member of the OpenJDK team. Most of my time is spent contributing to
 link:http://icedtea.classpath.org/wiki/IcedTea-Web[IcedTea-Web], but I do
@@ -22,3 +24,21 @@ hg clone http://icedtea.classpath.org/hg/icedtea-web
 cd icedtea-web
 hg log --verbose --user aazores # for extreme detail, add the --patch flag
 ----
+
+=== Xtreme Labs (now Pivotal Labs)
+
+In the summer of 2012, I spent four months working at a mobile development-
+focused shop in Toronto. This small company was a blast to work for, with their
+startup culture and agile development methodologies. Most of my time there was
+spent using Ruby on Rails with MySQL to develop a RESTful CRUD server which was
+to serve as a datastore for an Android client application (actually two
+applications, with a shared Android Service component). I also spent some time
+working on the Android Service component, so I had the very interesting and
+educational perspective of being on both ends of the API.
+
+=== McMaster Students' Union
+
+Finally, I have spent a total of three semesters (twelve months) working for
+McMaster's Student Union organization as a Network Assistant. This was essentially
+an entry-level IT position that I held part-time while enrolled full-time in
+school.
