@@ -1,0 +1,24 @@
+== Robotics
+
+I'm a mentor for link:http://team3161.ca[FRC 3161], a FIRST Robotics Competition
+team located in Oakville, Ontario. I was in Grade 12 during the team's first
+year and served as one of its co-captains, one of the robot drivers, programming
+lead, and was involved with all other aspects of the robot build (mechanical,
+electrical, pneumatic). I have been returning to the team each year since to
+mentor, particularly for software and control systems. For the 2011 through 2013
+seasons, the team had a pair of student programmers, and so I kept my hands
+mostly off of what they were doing, as they were able to share the (heavy) load
+effectively.
+
+For the 2014 season there was only one programming student, and so I dove back in
+and become hands-on with the robot code for the first time since 2010. The result
+is, in my opinion, the best-designed robot code we have produced
+in a season by far, and is also the first time the team has open-sourced its robot
+software. This can be viewed at the team's
+link:http://github.com/FRC3161[GitHub page].
+
+Notably, during the 2014 season, the team earned the *Innovation in Control*
+award at the Waterloo Regional. Credit for this award must be shared with
+Michael Szpakowicz, our programming student, and Steven Lao, another of our
+mentors, who gave the principle and mathematical definition for the implementation
+that won the award.
