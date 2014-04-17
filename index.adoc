@@ -1,5 +1,10 @@
 Andrew Azores' Homepage
 =======================
+:author: Andrew Azores
+:email: andrew.azores@linux.com
+:toc:
+:toclevels: 3
+:icons:
 
 include::welcome.adoc[]
 
