@@ -20,4 +20,7 @@ Notably, during the 2014 season, the team earned the *Innovation in Control*
 award at the Waterloo Regional. Credit for this award must be shared with
 Michael Szpakowicz, our programming student, and Steven Lao, another of our
 mentors, who gave the principle and mathematical definition for the implementation
-that won the award.
+that won the award. In the same season at another regional event, the team
+qualified for the world FIRST Championship event via the Engineering Inspiration
+award, which is awarded to one team per regional event based on effective
+community outreach and promoting the ideals of FIRST.
