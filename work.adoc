@@ -20,9 +20,9 @@ More information about my specific contributions:
 For a more clear view of only my contributions to IcedTea-Web:
 
 ----
-hg clone http://icedtea.classpath.org/hg/icedtea-web
-cd icedtea-web
-hg log --verbose --user aazores # for extreme detail, add the --patch flag
+$ hg clone http://icedtea.classpath.org/hg/icedtea-web
+$ cd icedtea-web
+$ hg log --verbose --user aazores # for extreme detail, add the --patch flag
 ----
 
 === Xtreme Labs (now Pivotal Labs)
