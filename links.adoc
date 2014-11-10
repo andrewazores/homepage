@@ -1,6 +1,6 @@
 == Links
 
-* link:http://andrewazores.dyndns.org[This page]
+* link:https://andrewazor.es[This page]
 * link:http://github.com/andrewazores/homepage.git[This page on GitHub]
 * link:http://github.com/andrewazores[GitHub profile]
 * link:http://bitbucket.org/andrewazores[BitBucket profile]
