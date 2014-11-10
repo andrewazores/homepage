@@ -2,8 +2,9 @@
 
 === Red Hat
 
-I am currently on a 16 month internship with Red Hat in Toronto, working as a
-member of the OpenJDK team. Most of my time is spent contributing to
+I am currently working part time for Red Hat while completing my B.A.Sc, after
+spending a 16 month full-time internship with Red Hat in Toronto. As a member
+of the OpenJDK team, most of my time is spent contributing to
 link:http://icedtea.classpath.org/wiki/IcedTea-Web[IcedTea-Web], but I do
 occasionally work on other things, such as
 link:http://github.com/devoxx4kids/materials[Devoxx4kids]. Devoxx is a large
