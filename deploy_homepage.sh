@@ -13,14 +13,8 @@ else
     read ans
     if [ "$ans" = "Y" -o "$ans" = "y" ]; then
         if [ ! -d "$1" ]; then
-            echo "The directory $1 does not exist. Create it (and all parents)? Y/n [n]"
-            read ans
-            if [ "$ans" = "Y" -o "$ans" = "y" ]; then
-                echo "Creating $1..."
-                mkdir -p "$1"
-            else
-                abort
-            fi
+            echo "The directory $1 does not exist. Please create it and re-run this script."
+            abort
         fi
         echo "Building..."
     else
@@ -42,9 +36,13 @@ else
 fi
 
 $ADOC index.adoc
-if [ ! $? ]; then
+if [ ! "$?" ]; then
     echo "Failed to build!"
     abort
 fi
-sudo cp -i index.html $1
+if [ "$(id -u)" = "0" ]; then
+    cp -i index.html $1
+else
+    sudo cp -i index.html $1
+fi
 echo "Finished!"
