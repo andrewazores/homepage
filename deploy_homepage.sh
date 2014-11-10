@@ -42,4 +42,9 @@ else
 fi
 
 $ADOC index.adoc
+if [ ! $? ]; then
+    echo "Failed to build!"
+    abort
+fi
 sudo cp -i index.html $1
+echo "Finished!"
