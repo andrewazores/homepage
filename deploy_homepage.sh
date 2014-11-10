@@ -1,6 +1,6 @@
 #!/bin/sh
 
-function abort() {
+abort () {
     echo "Aborting..."
     exit 0
 }
