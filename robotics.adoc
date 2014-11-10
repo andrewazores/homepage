@@ -11,10 +11,11 @@ mostly off of what they were doing, as they were able to share the (heavy) load
 effectively.
 
 For the 2014 season there was only one programming student, and so I dove back in
-and become hands-on with the robot code for the first time. The result is, in my 
-pinion, the best-designed robot code we have produced in a season by far, and is
-also the first time the team has open-sourced its robot software. This can be
-viewed at the team's link:http://github.com/FRC3161[GitHub page].
+and become hands-on with the robot code for the first time since I graduated from
+the team. The result is, in my opinion, the best-designed and highest-quality
+robot code we have produced in a season, and is also the first time the team
+has open-sourced its robot software. This can be viewed at the team's
+link:http://github.com/FRC3161[GitHub page].
 
 Notably, during the 2014 season, the team earned the *Innovation in Control*
 award at the Waterloo Regional. Credit for this award must be shared with
