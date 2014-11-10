@@ -1,4 +1,4 @@
-Andrew Azores' Homepage
+Homepage
 =======================
 :author: Andrew Azores
 :email: andrew.azores@linux.com
