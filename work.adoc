@@ -31,11 +31,12 @@ $ hg log --verbose --user aazores # for extreme detail, add the --patch flag
 In the summer of 2012, I spent four months working at a mobile development-
 focused shop in Toronto. This small company was a blast to work for, with their
 startup culture and agile development methodologies. Most of my time there was
-spent using Ruby on Rails with MySQL to develop a RESTful/CRUD server which was
-to serve as a datastore for an Android client application (actually two
-applications, with a shared Android Service component). I also spent some time
-working on the Android Service component, so I had the very interesting and
-educational perspective of being on both ends of the API.
+spent using Ruby on Rails with MySQL and RabbitMQ to develop a RESTful/CRUD server
+which was to serve as a datastore and messaging server for an Android client
+application (actually two applications, with a shared Android Service component).
+I also spent some time working on the Android Service component, so I had the
+very interesting and educational perspective of being on both ends of the API, as
+both an API user and API developer.
 
 === McMaster Students' Union
 
