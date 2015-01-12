@@ -1,7 +1,7 @@
 Homepage
 ========
 :author: Andrew Azores
-:email: andrew.azores@linux.com
+:email: me@andrewazor.es
 :toc:
 :toclevels: 3
 :icons:
