@@ -1,3 +1,8 @@
 == Welcome
 
 Hi! I'm still filling out some content on this, bear with me...
+
+The gist of it is that I'm a Computer Science student, actively seeking
+employment opportunities, to begin work shortly after my upcoming graduation.
+I'm a control systems mentor for a high school robotics team, a traditional
+archery enthusiast, and care a *lot* about Open Source.
